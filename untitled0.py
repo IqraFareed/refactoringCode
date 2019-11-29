@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 15 10:17:51 2019
 
-@author: nooru
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 15 06:27:04 2019
-
-@author: nooru
-"""
 
 import re
 
